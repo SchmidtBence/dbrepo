@@ -1,1 +1,14 @@
 
+{
+  "hajok": [
+    {
+      "id": 1,
+      "name": "Harbor",
+      "tipus":"Rombolo",
+      "ertek":200000
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
